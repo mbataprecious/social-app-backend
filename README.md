@@ -2,7 +2,7 @@
 this is the Backend of the application build with react, Mui and redux and hosted with firebase
 View the live app [here](https://socialapp-169f4.web.app/)
 
-![view image](https://drive.google.com/file/d/1qsYVFRFfcx8y5mr2_VEXxYUXCxGY4hYc/view?usp=sharing)
+![view image](https://github.com/mbataprecious/social-app-project/raw/main/public/img1.png)
 
 ## 1: API Base URL
 
