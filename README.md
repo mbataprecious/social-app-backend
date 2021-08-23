@@ -1,5 +1,5 @@
 # :computer: PreciousChat app 
-this is the Backend of the application build with react, Mui and redux and hosted with firebase
+this is the Backend of the application build with the use of firebase cli tools, and Nodejs
 View the live app [here](https://socialapp-169f4.web.app/)
 
 ![view image](https://github.com/mbataprecious/social-app-project/raw/main/public/img1.png)
